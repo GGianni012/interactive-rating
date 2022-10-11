@@ -7,6 +7,7 @@ body{
 }
 
 .buttons{
+<<<<<<< HEAD
     list-style-type: none;
     width: 30px; height: 30px;
     background-color: hsla(215, 27%, 33%, 0.719);
@@ -17,14 +18,31 @@ body{
     font-size: 0.85rem;
     margin-top: 2px;padding-top: 5px;
 }
+=======
+    list-style-type: none; display:flex;
+    width: 200px; height: 10px;
+    background-color: white;
+    margin:auto 
+>>>>>>> 7ecf6a77500de825fa97cb688f4756d37b36d176
 .container{
     width: 330px; height: 300px; 
     background-color:hsl(213, 19%, 18%);
     color: white;
     text-align: left;font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
     border-radius: 20px;
+<<<<<<< HEAD
     box-sizing: border-box;
     padding: 10px;
+=======
+    padding-bottom: -20px;
+    
+}
+
+#icon{
+    width:350px; height:100px ;
+    background-color: brown;
+    border-radius:25px ;
+>>>>>>> 7ecf6a77500de825fa97cb688f4756d37b36d176
 }
 
 button{
@@ -32,6 +50,7 @@ button{
     background-color: hsl(25, 97%, 53%);
     border-radius: 25px;
     border-style: none;
+<<<<<<< HEAD
     margin-left: 5px;
     color: white;
     font-weight: 400;font-size: 0.9rem;
@@ -58,3 +77,10 @@ ul{
     
 }
 h1{font-size: 1.1rem;margin-bottom:-5px;}p{font-size: 0.8rem;font-weight: 100;}
+=======
+
+    
+}
+.text{
+}
+>>>>>>> 7ecf6a77500de825fa97cb688f4756d37b36d176
